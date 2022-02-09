@@ -27,3 +27,5 @@ ramificação, você pode mesclar a ramificação com a principal, geralmente ch
 Um Pull/Merge Request (dependendo da ferramenta utilizada) é uma forma colaborativa de 
 compartilhar criação ou mudanças de código no repositório, de forma que facilite ser revisado e/ou
 discutido entre todos os membros do time.
+8)O que é Fork?
+Que e uma copia de respositorio de outro usuario 
