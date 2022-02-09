@@ -29,3 +29,5 @@ compartilhar criação ou mudanças de código no repositório, de forma que fac
 discutido entre todos os membros do time.
 8)O que é Fork?
 Que e uma copia de respositorio de outro usuario 
+9)O que é clone?
+pegar o repositorio remoto e clonar para o repositorio local
