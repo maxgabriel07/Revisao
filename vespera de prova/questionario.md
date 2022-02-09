@@ -10,3 +10,5 @@ As linguagens principais para funcionalidades de GitHub incluem C, C++,
 C#, Go, Java, JavaScript, PHP, Python, Ruby, Scala e TypeScript. Para 
 funcionalidades que gerenciam pacotes de suporte, os gerentes de pacotes
 atualmente compatíveis são incluídos na tabela com suas linguagens relevantes.
+3)O que é repositorio?
+pasta onde sera colocado os arquivo do projeto
