@@ -16,3 +16,10 @@ pasta onde sera colocado os arquivo do projeto
 se estiver em publica sim
 5)O que é vcs?
 software de controle de versao
+6)o que é branch?
+Uma ramificação no git é um ponteiro para as 
+alterações feitas nos arquivos do projeto. É útil em situações 
+nas quais você deseja adicionar um novo recurso ou corrigir um erro, 
+gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos
+do projeto principal. Depois de concluir a atualização dos códigos da
+ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de master.
