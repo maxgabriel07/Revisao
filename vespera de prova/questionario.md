@@ -23,3 +23,7 @@ nas quais você deseja adicionar um novo recurso ou corrigir um erro,
 gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos
 do projeto principal. Depois de concluir a atualização dos códigos da
 ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de master.
+7)O que é poll request?
+Um Pull/Merge Request (dependendo da ferramenta utilizada) é uma forma colaborativa de 
+compartilhar criação ou mudanças de código no repositório, de forma que facilite ser revisado e/ou
+discutido entre todos os membros do time.
