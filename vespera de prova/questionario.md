@@ -14,3 +14,5 @@ atualmente compatíveis são incluídos na tabela com suas linguagens relevantes
 pasta onde sera colocado os arquivo do projeto
 4) Os codigos que coloca no github estara sempre disponiveis a todos os usuarios da web ?
 se estiver em publica sim
+5)O que é vcs?
+software de controle de versao
